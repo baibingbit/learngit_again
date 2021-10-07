@@ -1,0 +1,12 @@
+DesertOasis/Binaries/Win64/DesertOasis-Win64-Shipping.pdb	2021-10-06T17:42:36.359Z
+Engine/Content/SlateDebug/Fonts/LastResort.tps	2021-10-06T16:07:36.001Z
+Engine/Content/SlateDebug/Fonts/LastResort.ttf	2021-10-06T16:07:36.423Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.pdb	2021-10-06T16:05:21.679Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.pdb	2021-10-06T16:05:21.770Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.pdb	2021-10-06T16:05:20.590Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.pdb	2021-10-06T16:05:20.930Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.pdb	2021-10-06T16:05:20.753Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.pdb	2021-10-06T16:05:17.364Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.pdb	2021-10-06T16:05:18.804Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.pdb	2021-10-06T16:05:19.508Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.pdb	2021-10-06T16:05:19.942Z
